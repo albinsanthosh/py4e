@@ -1,2 +1,2 @@
 # Py4e
-This is some programs from Python course from Coursera
+These are some programs from Python course from Coursera
